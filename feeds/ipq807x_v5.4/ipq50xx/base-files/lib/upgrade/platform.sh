@@ -73,6 +73,7 @@ platform_check_image() {
 	cybertan,eww631-a1|\
 	cybertan,eww631-b1|\
 	edgecore,eap104|\
+	wallys,dr5018|\
 	hfcl,ion4x_w|\
 	hfcl,ion4xi_w|\
 	optimcloud,d60|\
@@ -121,6 +122,7 @@ platform_do_upgrade() {
                 ;;
 	cig,wf186w|\
 	cig,wf186h|\
+	wallys,dr5018|\
 	optimcloud,d60|\
 	optimcloud,d60-5g|\
 	optimcloud,d50|\
